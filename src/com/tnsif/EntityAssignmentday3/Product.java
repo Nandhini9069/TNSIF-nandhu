@@ -1,7 +1,7 @@
-package com.tnsif.entityassignment.day3;
+package com.tnsif.EntityAssignmentday3;
 
 public class Product {
-    private int id;
+	private int id;
     public int getId() {
 		return id;
 	}
@@ -27,3 +27,5 @@ public class Product {
 		return "Product [id=" + id + ", name=" + name + ", price=" + price + "]";
 	}
 }
+
+

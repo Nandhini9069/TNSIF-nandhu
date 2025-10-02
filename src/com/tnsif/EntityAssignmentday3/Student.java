@@ -1,4 +1,4 @@
-package com.tnsif.entityassignment.day3;
+package com.tnsif.EntityAssignmentday3;
 
 public class Student {
 	private int id;

@@ -1,6 +1,6 @@
-package com.tnsif.entityassignment.day3;
+package com.tnsif.EntityAssignmentday3;
 
-import com.tnsif.entity.java.Customer;
+import com.tnsif.entityassignment.day3.Student;
 
 public class StudentDemo {
 	 Student s1 = new Student();
@@ -8,7 +8,7 @@ public class StudentDemo {
 	 s1.setName("Raja");
 	 s1.setCity("Villupuram);
 	 System.out.println(s1);	
-     Student s2 = new Student();
+    Student s2 = new Student();
 	 s2.setId(102);
 	 s2.setName("Arjun");
 	 s1.setCity("Cuddalore");
