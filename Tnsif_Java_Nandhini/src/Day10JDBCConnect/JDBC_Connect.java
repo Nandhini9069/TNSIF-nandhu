@@ -1,4 +1,4 @@
-package JDBCConnect;
+package Day10JDBCConnect;
 
 //1st step
 import java.sql.Connection;
